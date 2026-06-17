@@ -83,14 +83,7 @@ This Tableau dashboard provides comprehensive insights into automotive sales per
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
-
-## Future Enhancements
-
-- Sales Forecasting
-- Customer Segmentation
-- Predictive Analytics
-- Dynamic KPI Monitoring
+<img width="1841" height="1974" alt="image (4)" src="https://github.com/user-attachments/assets/a69e4895-ba61-450c-b4f9-77d2556bfb11" />
 
 ---
 ⭐ If you found this project useful, feel free to star the repository.
